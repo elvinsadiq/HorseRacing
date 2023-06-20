@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #174221;
+}
+
+.finish-label{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 3px;
+    background-color: white;
+    right: 0;
+    margin-right: 20px;
+}
+
+#header{
+    position: absolute;
+    min-width: 100%;
+    top: 0;
+}
