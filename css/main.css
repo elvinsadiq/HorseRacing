@@ -6,7 +6,7 @@ body{
 
 .finish-label{
     position: absolute;
-    top: 0;
+    top:0;
     bottom: 0;
     width: 3px;
     background-color: white;
@@ -17,5 +17,15 @@ body{
 #header{
     position: absolute;
     min-width: 100%;
-    top: 0;
+    top:0;
+}
+
+img{
+width: 300px;
+position: absolute;
+margin-top: 10px;
+} 
+
+#container div.row{
+    margin-top: 90px;
 }
